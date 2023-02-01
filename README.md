@@ -15,7 +15,7 @@ vs.py <admin_user> <Device_ip>
 Output
 ```
 +-------------------------------------------------+
-| Hostname: bigip.lab                   |
+| Hostname: bigip.lab                             |
 | Version: 15.1.3                                 |
 | Model: BIG-IP Virtual Edition                   |
 | Serial-Number: 564d6fee-6a4f-5851-8455eeeeeeee  |
