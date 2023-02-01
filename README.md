@@ -1,5 +1,5 @@
 
-#vs.py
+# vs.py
 
 Script que muestra el estado de los virtual servers para BIG-IP via iControl REST.
 Por defecto devolvera el Modelo,version,serial number y status de todos los virtual servers configurados en el equipo.
