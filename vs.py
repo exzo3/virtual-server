@@ -1,7 +1,7 @@
 ####################################################
 # Autor: Exzo3 (Rudy Valle)                        #                     
-# contacto:rvallejr@gmail.com     
-# Licencia: MIT 
+# contacto:rvallejr@gmail.com                      # 
+# Licencia: MIT                                    #
 ####################################################
 
 from datetime import datetime
