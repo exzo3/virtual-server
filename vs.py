@@ -1,3 +1,9 @@
+####################################################
+# Autor: Exzo3 (Rudy Valle)                        #                     
+# contacto:rvallejr@gmail.com     
+# Licencia: MIT 
+####################################################
+
 from datetime import datetime
 from sys import argv
 from getpass import getpass
