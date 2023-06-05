@@ -1,5 +1,5 @@
 ####################################################
-# Autor: Exzo3 (Rudy Valle)                        #                     
+# Autor: Exzo (Rudy Valle)                        #                     
 # contacto:rvallejr@gmail.com                      # 
 # Licencia: MIT                                    #
 ####################################################
