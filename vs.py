@@ -1,6 +1,6 @@
 ####################################################
-# Autor: Exzo (Rudy Valle)                        #                     
-# contacto:rvallejr@gmail.com                      # 
+# Autor: Exzo (Rudy Valle)                         #                     
+# contacto: https://www.linkedin.com/in/rudyvalle/ # 
 # Licencia: MIT                                    #
 ####################################################
 
